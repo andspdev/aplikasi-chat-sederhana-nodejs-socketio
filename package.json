@@ -1,0 +1,12 @@
+{
+  "name": "AndspChat",
+  "version": "0.0.1",
+  "description": "AndspChat : Chat Real Time",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^4.3.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
