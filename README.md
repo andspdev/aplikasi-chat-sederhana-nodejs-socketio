@@ -22,4 +22,4 @@ node index.js
 
 <br/>
 
-Untuk artikel lengkapnya bisa dilihat melalui:
+Untuk artikel lengkapnya bisa dilihat melalui: https://www.dailyblog.id/2021/10/membuat-aplikasi-chat-sederhana.html
