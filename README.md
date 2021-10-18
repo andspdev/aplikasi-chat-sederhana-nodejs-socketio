@@ -5,7 +5,7 @@ Kalian bisa menggunakan script yang sudah saya kasih ini untuk belajar dan menge
 Untuk penggunannya, kalian bisa mengikuti cara berikut ini:<br/><br/>
 
 1. Pastikan kalian sudah install NodeJS nya, dan berada di dalam folder projek kalian (yang telah di download)
-2. Jika sudah, kalian bisa jalankan di cmd/terminal:
+2. Jika sudah kalian bisa jalankan di cmd/terminal:
 
 ``` console
 npm install
